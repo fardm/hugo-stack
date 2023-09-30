@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"239bd1c2b3d8a61a","type":"file","file":"توسعه فردی/سه تیپ شخصیتی در یادداشت برداری.md","x":-1100,"y":-160,"width":400,"height":225},
+		{"id":"b73d3aa3bae22acc","type":"file","file":"توسعه فردی/سیستم های یادداشت برداری.md","x":-1100,"y":140,"width":400,"height":225},
+		{"id":"37a7762c47a72e3f","type":"file","file":"img/cover-pkm-folders.jpg","x":-660,"y":-460,"width":400,"height":225},
+		{"id":"ac8c7393e630d109","type":"file","file":"توسعه فردی/مدیریت دانش شخصی (PKM).md","x":-1100,"y":-460,"width":400,"height":225},
+		{"id":"ec790440d6f78871","type":"file","file":"img/cover-pkm-wase.jpg","x":-660,"y":140,"width":400,"height":225},
+		{"id":"b0458e0c6e0644ac","type":"file","file":"img/cover-note-taking-peaper.jpg","x":-660,"y":740,"width":400,"height":225},
+		{"id":"90590615cd1bb304","type":"file","file":"img/cover-digital-gardening.jpg","x":-660,"y":440,"width":400,"height":225},
+		{"id":"943301e649f80d32","type":"file","file":"توسعه فردی/یادداشت برداری با سیستم باغبانی دیجیتال.md","x":-1100,"y":440,"width":400,"height":225},
+		{"id":"36f9d463b5631a34","type":"file","file":"توسعه فردی/تکنیک های یادداشت برداری موثر.md","x":-1100,"y":740,"width":400,"height":225},
+		{"id":"0ef12ad38f46d51d","type":"file","file":"img/cover-character-pkm.jpg","x":-660,"y":-160,"width":400,"height":225},
+		{"id":"a196e53c4bbd0146","type":"file","file":"پیش نویس/روش های یادداشت برداری.md","x":-1100,"y":1040,"width":400,"height":200}
+	],
+	"edges":[]
+}
