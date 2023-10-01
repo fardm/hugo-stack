@@ -2,7 +2,7 @@
 title: مدیریت دانش شخصی (PKM)
 aliases: 
 date: 2023-09-16T00:10:00
-draft: true
+draft: false
 tags:
   - PKM
 categories:
