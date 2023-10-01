@@ -193,19 +193,19 @@ menu:
     social:
         - identifier: instagram
           name: Instagram
-          url: https://instagram.com
+          url: https://instagram.com/ifard.ir/
           params:
               icon: brand-instagram
 
         - identifier: telegram
           name: Telegram
-          url: https://telegram.com
+          url: https://t.me/ifard_ir/
           params:
               icon: brand-telegram
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/ifard_ir/
           params:
               icon: brand-twitter
 
