@@ -2,17 +2,17 @@ baseurl: "https://ifard.ir/"
 languageCode: fa-us
 theme: hugo-theme-stack
 paginate: 5
-title: حسین فردمحمدی
+title: وبلاگ فرد
 copyright: انتشار مطالب با ذکر منبع مجاز است.
 
 languages:
     fa:
         languageName: فارسی
         languagedirection: rtl
-        title: حسین فردمحمدی
+        title: وبلاگ فرد
         weight: 3
         params:
-            description: محل ثبت و نشر یادداشت‌های من
+            description: یادداشت‌های حسین فردمحمدی
     
             
 
@@ -51,7 +51,7 @@ params:
 
     sidebar:
         emoji: 🌱
-        subtitle: محل ثبت و نشر یادداشت‌های من
+        subtitle: یادداشت‌های حسین فردمحمدی
         avatar:
             enabled: true
             local: true
