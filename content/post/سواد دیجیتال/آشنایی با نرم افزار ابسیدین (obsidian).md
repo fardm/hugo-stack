@@ -140,7 +140,7 @@ cover: obsidian-sharpen.jpg
 ---
 لینک کوتاه:
 ```
-s.fardm.ir/p1
+s.ifard.ir/p1
 ```
 
 
