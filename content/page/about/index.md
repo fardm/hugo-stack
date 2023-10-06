@@ -2,7 +2,7 @@
 title: درباره من
 description:
 slug: about-me
-image: "photo-ptof11.png"
+image: "photo-ptof11.jpg"
 date: '2023-09-01'
 lastmod: '2023-09-22'
 aliases:
