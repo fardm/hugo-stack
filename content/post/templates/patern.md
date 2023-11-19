@@ -7,9 +7,14 @@ draft: true
 ```
 
 ## link
-
+link to note
 ```
 [text]({{< ref "file name" >}})
+```
+
+link to heading
+```
+[text]({{< ref "file name#title heading" >}})
 ```
 
 ## Templater
