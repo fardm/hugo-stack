@@ -33,6 +33,13 @@ link to heading
 python -m obsidian_to_hugo --obsidian-vault-dir=C:\Users\Arvin\OneDrive\Dokumenty\obsidian\Publish --hugo-content-dir=C:\mysite\ifard\content\post
 ```
 
+
 ```
-python -m obsidian_to_hugo --obsidian-vault-dir=C:\Users\Arvin\MyDrive\obsidian\Publish --hugo-content-dir=C:\mysite\ifard\content\post
+python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\Arvin\My Drive\obsidian\Publish" --hugo-content-dir=C:\mysite\ifard\content\post
 ```
+
+
+python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\Arvin\Desktop\a" --hugo-content-dir="C:\Users\Arvin\Desktop\b"
+
+
+python -m obsidian_to_hugo --obsidian-vault-dir=C:\Users\Arvin\OneDrive\Dokumenty\obsidian\Publish --hugo-content-dir=C:\mysite\ifard\content\post
