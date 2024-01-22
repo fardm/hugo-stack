@@ -29,6 +29,12 @@ link to heading
 
 ## obsidian to hugo
 
+### google drive
+```
+python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\Arvin\My Drive\obsidian\Publish" --hugo-content-dir=C:\mysite\ifard\content\post
+```
+
+### old
 one drive
 ```
 python -m obsidian_to_hugo --obsidian-vault-dir=C:\Users\Arvin\OneDrive\Dokumenty\obsidian\Publish --hugo-content-dir=C:\mysite\ifard\content\post
@@ -43,3 +49,6 @@ A to B
 ```
 python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\Arvin\Desktop\a" --hugo-content-dir="C:\Users\Arvin\Desktop\b"
 ```
+
+
+
