@@ -8,7 +8,6 @@ tags:
 categories:
   - توسعه فردی
 image: /post/img/cover-pkm-folders.jpg
-cover: cover-pkm-folders.jpg
 lastmod: 2023-09-22T01:38:00
 ---
 این یادداشت صفرم از سری یادداشت های «مدیریت دانش شخصی» است. در واقع این نوشته مدخل و سنگ بنای یادداشت هایی است که در مورد این موضوع نوشتم.

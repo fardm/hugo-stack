@@ -2,10 +2,20 @@
 draft: true
 ---
 ## image
+figure
 ```
 {{<figure src="/post/img/filename.jpg" width="80%" >}}
 ```
 
+markdown
+```
+![image](post/img/filename.jpg)
+```
+
+Hyperlink
+```
+[![image](post/img/filename.jpg)](https://site.com)
+```
 ## link
 link to note
 ```
@@ -31,8 +41,9 @@ link to heading
 
 ### google drive
 ```
-python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\Arvin\My Drive\obsidian\Publish\post" --hugo-content-dir=C:\mysite\ifard\content\post
+python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\Arvin\My Drive\obsidian\My Note\Publish\post" --hugo-content-dir=C:\mysite\ifard\content\post
 ```
 
+📁 ifard:  [open folder](file:\\\C:\mysite\ifard\content\post)
 
 
