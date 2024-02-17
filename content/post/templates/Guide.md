@@ -47,3 +47,6 @@ python -m obsidian_to_hugo --obsidian-vault-dir="C:\Users\Arvin\My Drive\obsidia
 📁 ifard:  [open folder](file:\\\C:\mysite\ifard\content\post)
 
 
+```
+python -m obsidian_to_hugo --obsidian-vault-dir=C:\Users\Arvin\Desktop\a --hugo-content-dir=C:\Users\Arvin\Desktop\b
+```

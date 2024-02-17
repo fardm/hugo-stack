@@ -1,7 +1,8 @@
 ---
-title: یادداشت برداری با سیستم باغبانی دیجیتال
+title: <% tp.file.title %>
 aliases: 
 keywords: 
+slug: 
 date: 
 lastmod: 
 draft: true

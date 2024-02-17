@@ -2,6 +2,7 @@
 title: بررسی و معرفی نرم افزار ابسیدین (obsidian)
 aliases: 
 keywords: نرم افزار ابسیدین
+slug: obsidian review
 date: 2023-09-02T23:00:00
 lastmod: 2024-01-18T17:48:00
 draft: false
