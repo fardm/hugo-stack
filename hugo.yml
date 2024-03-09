@@ -3,7 +3,7 @@ languageCode: fa-us
 theme: hugo-theme-stack
 paginate: 5
 title: وبلاگ فرد
-copyright: انتشار مطالب با ذکر منبع مجاز است.
+copyright: نقل مطالب با ذکر منبع مجاز است.
 
 languages:
     fa:
@@ -42,7 +42,7 @@ params:
     favicon: /favicon.ico
 
     footer:
-        since: 2023
+        since: 2024
         customText: 
 
     dateFormat:
@@ -50,7 +50,7 @@ params:
         lastUpdated: Jan 02, 2006
 
     sidebar:
-        emoji: 🌱
+        emoji: 
         subtitle: یادداشت‌های حسین فردمحمدی
         avatar:
             enabled: true
