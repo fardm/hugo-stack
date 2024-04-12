@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "dataview",
+        "config": {
+          "query": "TABLE\ntitle, image, date, draft, aliases, categories, tags, lastmod, keywords, slug, LYT\nFROM \"post\""
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "image",
+            "includeFields": [],
+            "fitStyle": "contain",
+            "cardWidth": 300
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "draft",
+                "operator": "is-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "ac2adffd-7f90-4c68-a13b-5888a2eb6967",
+          "name": "Publish",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "coverField": "image",
+            "cardWidth": 200,
+            "includeFields": [],
+            "fitStyle": "contain"
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "draft",
+                "operator": "is-not-empty",
+                "enabled": true
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "21139ab6-9606-4bed-8168-8518357557e1",
+          "name": "Draft",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "title": {
+                "hide": true
+              },
+              "File": {
+                "width": 298
+              },
+              "image": {
+                "hide": true
+              },
+              "LYT": {
+                "hide": true
+              },
+              "slug": {
+                "hide": true
+              },
+              "keywords": {
+                "hide": true
+              },
+              "lastmod": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "93365c1b-1567-4c92-95eb-a3616954ab86",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "faac2d52-09e1-412a-a9a2-6b4fcdcd4be6",
+      "name": "post"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}
