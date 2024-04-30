@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "723038bfc262efee",
+        "id": "ee7cef2b3df26290",
         "type": "tabs",
         "children": [
           {
-            "id": "61787e162aeb7f86",
+            "id": "a0ecd5c956cb8e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
+                "file": "post/منتشرشده/گزارش توسعه فردی ۱۴۰۲.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "0c67183a63228814",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
+                "file": "post/منتشرشده/گزارش توسعه فردی ۱۴۰۲.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
+                "file": "post/منتشرشده/گزارش توسعه فردی ۱۴۰۲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md"
+                "file": "post/منتشرشده/گزارش توسعه فردی ۱۴۰۲.md"
               }
             }
           }
@@ -164,12 +172,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "61787e162aeb7f86",
+  "active": "a0ecd5c956cb8e2f",
   "lastOpenFiles": [
     "post/پیش نویس/PKM/باغبانی دیجیتال با نرم افزار ابسیدین.md",
+    "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
     "post/منتشرشده/بررسی و معرفی نرم افزار ابسیدین (obsidian).md",
     "post/منتشرشده/آموزش نرم افزار ابسیدین - نصب و راه اندازی.md",
-    "post/پیش نویس/گزارش توسعه فردی ۱۴۰۲.md",
+    "post/منتشرشده/گزارش توسعه فردی ۱۴۰۲.md",
     "post/img/1402-motamem.jpg.~tmp",
     "post/img/1402-documentary.jpg.~tmp",
     "post/img/1402-videos.jpg.~tmp",
@@ -178,7 +187,6 @@
     "post/img/1402-books.jpg.~tmp",
     "post/img/1402-graphview.jpg",
     "post/منتشرشده/بررسی.md",
-    "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
     "page/about/index.md",
     "post/img/1402-overview.svg",
     "post/img/cover-dgarden.svg",
