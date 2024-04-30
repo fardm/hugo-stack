@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "85b04fca41929fc5",
+        "id": "723038bfc262efee",
         "type": "tabs",
         "children": [
           {
-            "id": "1baca67fcd2654fa",
+            "id": "61787e162aeb7f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/پیش نویس/گزارش توسعه فردی ۱۴۰۲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34b5779eaf6c2168",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "8b35df936389420e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/پیش نویس/گزارش توسعه فردی ۱۴۰۲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0098109a4e03286d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/منتشرشده/آموزش نرم افزار ابسیدین - نصب و راه اندازی.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "965d77a83fd0983e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post/منتشرشده/آموزش نرم افزار ابسیدین - نصب و راه اندازی.md",
+                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:obsidian-sharpen.jpg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md"
+              }
             }
           }
         ],
@@ -205,12 +164,27 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "34b5779eaf6c2168",
+  "active": "61787e162aeb7f86",
   "lastOpenFiles": [
-    "post/پیش نویس/گزارش توسعه فردی ۱۴۰۲.md",
-    "post/منتشرشده/آموزش نرم افزار ابسیدین - نصب و راه اندازی.md",
-    "post/منتشرشده/سرگردانی در دوران جوانی.md",
+    "post/پیش نویس/PKM/باغبانی دیجیتال با نرم افزار ابسیدین.md",
     "post/منتشرشده/بررسی و معرفی نرم افزار ابسیدین (obsidian).md",
+    "post/منتشرشده/آموزش نرم افزار ابسیدین - نصب و راه اندازی.md",
+    "post/پیش نویس/گزارش توسعه فردی ۱۴۰۲.md",
+    "post/img/1402-motamem.jpg.~tmp",
+    "post/img/1402-documentary.jpg.~tmp",
+    "post/img/1402-videos.jpg.~tmp",
+    "post/img/1402-courses.jpg.~tmp",
+    "post/img/1402-books.jpg",
+    "post/img/1402-books.jpg.~tmp",
+    "post/img/1402-graphview.jpg",
+    "post/منتشرشده/بررسی.md",
+    "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md",
+    "page/about/index.md",
+    "post/img/1402-overview.svg",
+    "post/img/cover-dgarden.svg",
+    "post/templates/Guide.md",
+    "post/templates/new post.md",
+    "post/منتشرشده/سرگردانی در دوران جوانی.md",
     "post/img/cover-obsidian02.svg",
     "post/img/cover-obsidian01.jpg",
     "post/img/cover-report02.svg",
@@ -218,11 +192,6 @@
     "post/img/obsidian-sharpen.jpg",
     "post/img/cover-obsidian1.jpg",
     "post/img/cover-wandering.jpg",
-    "post/img/ways-wand.jpg",
-    "post/img/cover-ways-wand.jpg",
-    "post/img/1402-cover.svg",
-    "post/img/1402-cover.jpg",
-    "post/templates/new post.md",
     "post/پیش نویس/واکنش دشمن معیاری برای تشخیص حق و باطل.md",
     "post/پیش نویس/منابع رایگان یادگیری.md",
     "post/پیش نویس/متمم محتوای سبز.md",
@@ -233,20 +202,14 @@
     "post/پیش نویس/پاسداری از زبان فارسی.md",
     "post/پیش نویس/استفاده از منابع آموزشی انگلیسی.md",
     "post/پیش نویس/PKM/یادداشت برداری کاغذی یا دیجیتالی - نظریه بلوم.md",
-    "post/پیش نویس/PKM/یادداشت برداری با سیستم باغبانی دیجیتال.md",
     "post/پیش نویس/PKM/مدیریت دانش شخصی (PKM).md",
     "post/پیش نویس/PKM/سیستم های یادداشت برداری.md",
     "post/پیش نویس/PKM/سه تیپ شخصیتی در یادداشت برداری.md",
     "post/پیش نویس/PKM/روش های یادداشت برداری.md",
-    "post/پیش نویس/PKM/تکنیک های یادداشت برداری موثر.md",
-    "post/پیش نویس/PKM/پیش نویس سه تیپ شخصیتی.md",
-    "post/پیش نویس/PKM/باغبانی دیجیتال با نرم افزار ابسیدین.md",
-    "post/پیش نویس/عدم اطمینان، نداشتن یقین.md",
     "post/templates",
     "post/img",
     "post/پیش نویس",
     "post/منتشرشده",
-    "post/پیش نویس/درحال نگارش",
-    "post/پیش نویس/PKM"
+    "post/پیش نویس/درحال نگارش"
   ]
 }

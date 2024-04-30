@@ -1,5 +1,6 @@
 {
   "showInlineTitle": false,
   "newFileLocation": "root",
-  "attachmentFolderPath": "post/img"
+  "attachmentFolderPath": "post/img",
+  "alwaysUpdateLinks": true
 }
