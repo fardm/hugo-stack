@@ -74,7 +74,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "date",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
           },
           "id": "ac2adffd-7f90-4c68-a13b-5888a2eb6967",
           "name": "Publish",
