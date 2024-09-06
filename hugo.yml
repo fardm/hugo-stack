@@ -1,4 +1,4 @@
-baseurl: "https://fardm.github.io/ifard/"
+baseurl: "https://fardm.github.io/hugo-stack/"
 languageCode: fa-us
 theme: hugo-theme-stack
 paginate: 5
