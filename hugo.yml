@@ -2,17 +2,17 @@ baseurl: "https://fardm.github.io/ifard/"
 languageCode: fa-us
 theme: hugo-theme-stack
 paginate: 5
-title: وبلاگ فرد
-copyright: نقل مطالب با ذکر منبع مجاز است.
+title: وبلاگ من
+copyright: انتشار با ذکر منبع مجاز است.
 
 languages:
     fa:
         languageName: فارسی
         languagedirection: rtl
-        title: وبلاگ فرد
+        title: وبلاگ من
         weight: 3
         params:
-            description: یادداشت‌های حسین فردمحمدی
+            description: یادداشت‌های پراکنده
     
             
 
@@ -51,7 +51,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: یادداشت‌های حسین فردمحمدی
+        subtitle: یادداشت های پراکنده
         avatar:
             enabled: true
             local: true

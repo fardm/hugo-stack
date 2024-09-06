@@ -1,24 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "آیا ویکی پدیا قابل اعتماد است؟",
-      "path": "post/منتشرشده/آیا ویکی پدیا قابل اعتماد است؟.md"
+      "basename": "تست محتوا",
+      "path": "post/منتشرشده/تست محتوا.md"
     },
     {
-      "basename": "سه تیپ شخصیتی در یادداشت برداری",
-      "path": "post/پیش نویس/PKM/سه تیپ شخصیتی در یادداشت برداری.md"
+      "basename": "آموزش نرم افزار ابسیدین",
+      "path": "post/منتشرشده/آموزش نرم افزار ابسیدین.md"
+    },
+    {
+      "basename": "ویکی پدیا",
+      "path": "post/منتشرشده/ویکی پدیا.md"
+    },
+    {
+      "basename": "سرگردانی در دوران جوانی",
+      "path": "post/منتشرشده/سرگردانی در دوران جوانی.md"
+    },
+    {
+      "basename": "بررسی و معرفی نرم افزار ابسیدین",
+      "path": "post/منتشرشده/بررسی و معرفی نرم افزار ابسیدین.md"
+    },
+    {
+      "basename": "_index",
+      "path": "categories/ژورنال/_index.md"
+    },
+    {
+      "basename": "hutomo-abrianto-l2jk-uxb1BY-unsplash",
+      "path": "categories/ژورنال/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
+    },
+    {
+      "basename": "_index",
+      "path": "categories/ابسیدین/_index.md"
+    },
+    {
+      "basename": "obsidianim",
+      "path": "categories/ابسیدین/obsidianim.jpg"
+    },
+    {
+      "basename": "index",
+      "path": "page/search/index.md"
+    },
+    {
+      "basename": "ts-logo-128",
+      "path": "page/links/ts-logo-128.jpg"
+    },
+    {
+      "basename": "index",
+      "path": "page/links/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "page/archives/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "page/about/index.md"
+    },
+    {
+      "basename": "wandering",
+      "path": "post/img/wandering.jpg"
+    },
+    {
+      "basename": "wikipedia",
+      "path": "post/img/wikipedia.jpg"
+    },
+    {
+      "basename": "cover-obsidian02",
+      "path": "post/img/cover-obsidian02.svg"
+    },
+    {
+      "basename": "obsidian",
+      "path": "post/img/obsidian.jpg"
     },
     {
       "basename": "Guide",
       "path": "post/templates/Guide.md"
     },
     {
-      "basename": "راهنمای استفاده از ابسیدین",
-      "path": "post/پیش نویس/راهنمای استفاده از ابسیدین.md"
+      "basename": "_index",
+      "path": "_index.md"
+    },
+    {
+      "basename": "new post",
+      "path": "post/templates/new post.md"
+    },
+    {
+      "basename": "چطور با ورزش ۱۰ کیلو کم کردم؟",
+      "path": "post/پیش نویس/چطور با ورزش ۱۰ کیلو کم کردم؟.md"
+    },
+    {
+      "basename": "سه تیپ شخصیتی در یادداشت برداری",
+      "path": "post/پیش نویس/PKM/سه تیپ شخصیتی در یادداشت برداری.md"
+    },
+    {
+      "basename": "تکنیک های یادداشت برداری موثر",
+      "path": "post/پیش نویس/PKM/تکنیک های یادداشت برداری موثر.md"
     },
     {
       "basename": "یادداشت برداری با روش دیجیتال گاردن",
       "path": "post/پیش نویس/PKM/یادداشت برداری با روش دیجیتال گاردن.md"
+    },
+    {
+      "basename": "واکنش دشمن معیاری برای تشخیص حق و باطل",
+      "path": "post/پیش نویس/واکنش دشمن معیاری برای تشخیص حق و باطل.md"
+    },
+    {
+      "basename": "منابع رایگان یادگیری",
+      "path": "post/پیش نویس/منابع رایگان یادگیری.md"
+    },
+    {
+      "basename": "متمم محتوای سبز",
+      "path": "post/پیش نویس/متمم محتوای سبز.md"
+    },
+    {
+      "basename": "فارگلیسی",
+      "path": "post/پیش نویس/فارگلیسی.md"
+    },
+    {
+      "basename": "ساخت سایت استاتیک با ابسیدین",
+      "path": "post/پیش نویس/ساخت سایت استاتیک با ابسیدین.md"
+    },
+    {
+      "basename": "راهنمای استفاده از ابسیدین",
+      "path": "post/پیش نویس/راهنمای استفاده از ابسیدین.md"
+    },
+    {
+      "basename": "استفاده از منابع آموزشی انگلیسی",
+      "path": "post/پیش نویس/استفاده از منابع آموزشی انگلیسی.md"
     },
     {
       "basename": "مدیریت دانش شخصی (PKM)",
@@ -27,14 +135,6 @@
     {
       "basename": "سیستم های یادداشت برداری",
       "path": "post/پیش نویس/PKM/سیستم های یادداشت برداری.md"
-    },
-    {
-      "basename": "تکنیک های یادداشت برداری موثر",
-      "path": "post/پیش نویس/PKM/تکنیک های یادداشت برداری موثر.md"
-    },
-    {
-      "basename": "گزارش توسعه فردی ۱۴۰۲",
-      "path": "post/منتشرشده/گزارش توسعه فردی ۱۴۰۲.md"
     }
   ],
   "omittedPaths": [],
